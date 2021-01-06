@@ -1,0 +1,16 @@
+
+
+
+
+
+1)
+     a)
+     b)improved_matrixTrans =>        , naive_matrixTrans => 
+     c)improved_matrixTrans =>         , naive_matrixTrans =>
+
+2)   8*8 blocks=>     , 32*32  blocks=>
+
+
+
+3) 
+
